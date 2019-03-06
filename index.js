@@ -3,3 +3,8 @@ function happyHolidays()
 {
  return("Happy holidays!") 
 }
+
+function happyHolidaysTo('Phil')
+{
+  return("Happy holidays, ${name}!")
+}
